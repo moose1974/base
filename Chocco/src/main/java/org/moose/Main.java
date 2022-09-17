@@ -1,0 +1,7 @@
+package org.moose;
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello world! on 0917");
+    }
+}
